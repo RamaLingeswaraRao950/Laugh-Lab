@@ -18,7 +18,6 @@ A light-hearted web application that fetches and displays random dad jokes from 
 - 📡 **icanhazdadjoke API**
 
 ***🌐 Live Demo 🔗 :--***
-
 👉 [**LAUGH NOW**](https://laugh-lab-rams-projects-630b086e.vercel.app/) 👈
 
 ***😄 Laugh out loud and share the fun! 🎉***
